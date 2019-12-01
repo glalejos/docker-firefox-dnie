@@ -1,3 +1,7 @@
+# Relocation notice
+
+Moved to https://gitlab.com/glalejos.
+
 # dnie.sh
 Programa de gestión de navegador para uso de DNI electrónico español
 
