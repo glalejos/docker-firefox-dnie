@@ -1,6 +1,6 @@
-# Relocation notice
+# Reubicado
 
-Moved to https://gitlab.com/glalejos/docker-firefox-dnie.
+Movido a https://gitlab.com/glalejos/docker-firefox-dnie.
 
 # dnie.sh
 Programa de gestión de navegador para uso de DNI electrónico español
